@@ -1,0 +1,16 @@
+15. **TAREA #07** Utilice el VSC para editar de forma remota el código fuente del programa 
+[computePI.ts](https://github.com/ULL-ESIT-PAI-2025-2026/25-26_PAI-P01_Environment-WebServer-Jutge/blob/main/www/computePI/computePI.ts)
+que se encuentra en el directorio `www/js/` del proyecto de esta práctica.
+Modifique el programa para que el texto `Introduzca el número de rectángulos` se muestre en español en lugar de inglés.
+
+Instale el compilador de TypeScript usando el comando:
+`pnpm install -g typescript`
+y compruebe que ha quedado instalado ejecutando
+`tsc --version`
+
+compile a continuación el programa `computePI.ts' usando:
+`tsc computePI.ts`
+
+y observe cómo ello produce la creación del fichero `computePI.js`, versión JavaScript del programa original
+TypeScript.
+
