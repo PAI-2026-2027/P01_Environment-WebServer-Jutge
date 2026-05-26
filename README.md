@@ -26,11 +26,11 @@ or
 
 src/exercises/evaluation-session
 ```
-Include under the `home-work` folder all the exercises requested in the lab proposal
+Include under the `home-work` folder all the exercises requested in the lab proposal.
 Include in the `evaluation-session` folder all the code developed in the evaluation session
 
 This repo includes a `.gitignore` file to avoid uploading: `node_modules`, local configuration files, API keys, temporary files, etc.
-Anyway, **remember** to remove all binary files and empty directories in the final version of the project
+Anyway, **remember** to remove all binary files and empty directories in the final version of the assignment.
 
 This text is Markdown text. To learn about Markdown, Study these references:
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
