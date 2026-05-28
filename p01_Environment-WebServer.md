@@ -284,7 +284,9 @@ que es un entorno de ejecucion para JavaScript.
 
 17. **TAREA #07** Establezca una conexión `ssh` con su máquina virtual IaaS y utilice 
 [esta referencia](https://lenguajejs.com/npm/introduccion/instalacion-node-con-pnpm/) 
-para conocer `pnpm` e instalarlo en la máquina virtual.
+para conocer 
+[`pnpm`](https://www.npmjs.com/package/pnpm)
+e instalarlo en la máquina virtual.
 
 Siguiendo las instrucciones anteriores, instale la versión LTS de node y cuando finalice, compruebe que tiene instalados node y pnpm:
 ```
